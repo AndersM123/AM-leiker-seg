@@ -104,7 +104,7 @@ public class oppgave3_uke39 {
 		*/
 		
 //d)
-	
+	/*
 	public static void main(String[] args) {
 		int [] tab1 = {1,2,3};
 		int [] tab2 = {4,5,6};
@@ -143,7 +143,7 @@ public static boolean erLik(int[][] mat1, int[][] mat2) {
 	
 }
 	
-
+*/
 	}
 	
 
