@@ -1,4 +1,4 @@
-package Øving_uke_41;
+package pakke;
 
 import static javax.swing.JOptionPane.*;
 
